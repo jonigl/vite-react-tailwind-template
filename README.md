@@ -1,4 +1,12 @@
-# React + TypeScript + Vite
+# Tooling
+
+- Using https://bun.sh/
+  - `bun create vite`
+    - react-swc
+- Tailwind CSS with Vite - [Installation guide](https://tailwindcss.com/docs/guides/vite)
+
+
+# React + TypeScript + Vite (Template README)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
