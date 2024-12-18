@@ -4,6 +4,7 @@
   - `bun create vite`
     - react-swc
 - Tailwind CSS with Vite - [Installation guide](https://tailwindcss.com/docs/guides/vite)
+  - [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
 
 
 # React + TypeScript + Vite (Template README)

@@ -1,6 +1,6 @@
 import "./App.css";
 
-export default function App() {
+const App = () => {
   return (
     <div className="flex h-screen flex-col">
       <div className="bg-red-500">header</div>
@@ -8,4 +8,6 @@ export default function App() {
       <div className="bg-blue-500">footer</div>
     </div>
   );
-}
+};
+
+export default App;
